@@ -1,1 +1,1 @@
-print("Man leils prieks!!!")
+print("galejas izmainas")
