@@ -3,7 +3,9 @@ Autors: **Renards Pučka**
 
 ## Kā palaist
 
---Vienkarsi atvērt caur github desktop
+-- Vienkarsi atvērt caur github desktop
 
 ## Licence
---Man šis pieder - Renards
+-- Man šis pieder - RENARDS
+
+**HAHAHAHAHA**
