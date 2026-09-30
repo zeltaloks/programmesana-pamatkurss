@@ -6,3 +6,4 @@ Autors: **Renards Pučka**
 --Vienkarsi atvērt caur github desktop
 
 ## Licence
+--Man šis pieder - Renards
