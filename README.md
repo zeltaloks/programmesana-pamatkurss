@@ -1,7 +1,11 @@
-# programmesana-pamatkurss
+# Programmēšana - pamatkurss
+Autors: **Renards Pučka**
 
-# Projekta struktūra
-- uzdevumos atrodas visi uzdevumi
-- dati atrodas nosleptais teksts
+## Kā palaist
 
-- izpilditais kods strada dazreiz ja dazreiz ne tapec ka terminals skatas kura mape tas ir piesaistits
+-- Vienkarsi atvērt caur github desktop
+
+## Licence
+-- Man šis pieder - RENARDS
+
+**HAHAHAHAHA**
