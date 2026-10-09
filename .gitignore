@@ -2,4 +2,6 @@ noslepums.txt
 
 *.png
 
+piezimes.txt
+
 __pycache__/
