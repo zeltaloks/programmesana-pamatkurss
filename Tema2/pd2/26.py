@@ -4,5 +4,6 @@ vards = input("Ievadi varoņa vārdu: ")
 speks = int(input("Ievadi spēku: "))
 veiksme = float(input("Ievadi veiksmi: "))
 
+
 rezultats = (speks ** 2) * veiksme
-print(rezultats)
+print(f"{vards} duelī iegūst {rezultats:.1f} punktus!")
